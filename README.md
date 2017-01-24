@@ -1,6 +1,8 @@
 # mastroPiano
 Progetto di un Sintetizzatore OpenHardware
 
+![Primo prototipo](https://github.com/tizziano/mastroPiano/blob/master/doc/prototipo1.JPG)
+
 MastroPiano non è un prodotto commerciale, ma un progetto Open Hardware, un 
 insieme di applicazioni pratiche che ognuno può assemblare o costruire come 
 vuole e come più gli piace, seguendo alcune linee guida principali e 

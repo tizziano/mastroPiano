@@ -28,3 +28,4 @@ l'impiego dei circuiti logici cablati e analogici.
         - programmi applicativi di sviluppo
     - Elettronica di base
 
+Leggi in dettagli sul [wiki](https://github.com/tizziano/mastroPiano/wiki)

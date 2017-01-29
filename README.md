@@ -5,7 +5,7 @@ Progetto di un Sintetizzatore OpenHardware
 
 o
 
-<img src="/doc/prototipo1-50.jpg" width="600" height="330" />
+<img src="/doc/prototipo1-50.JPG" width="600" height="330" />
 
 MastroPiano non è un prodotto commerciale, ma un progetto Open Hardware, un 
 insieme di applicazioni pratiche che ognuno può assemblare o costruire come 

@@ -1,7 +1,11 @@
-# mastroPiano
-Progetto di un Sintetizzatore OpenHardware
+= README.adoc 
+:lang: it
+:author: Tiziano
+v1.0, 05-feb-2017
 
-<img alt="Primo prototipo" src="/doc/prototipo1-50.JPG" width="600" height="330" />
+== Progetto di un Sintetizzatore OpenHardware
+
+image::doc/prototipo1-50.JPG[width="600"]
 
 MastroPiano non è un prodotto commerciale, ma un progetto Open Hardware, un 
 insieme di applicazioni pratiche che ognuno può assemblare o costruire come 
@@ -20,13 +24,15 @@ oggi può essere realizzata impiegando dispositivi digitali a microprocesore
 molto più accessibili, unitamente al software, che sostituisce drasticamente 
 l'impiego dei circuiti logici cablati e analogici. 
 
-    - Sintesi del suono digitale
-    - Protocollo MIDI (OSI/ISO Layer 1 e 2)
-    - Microcontroller (Arduino & c.)
-    - Linguaggi di programmazione C/C++
-    - Sistema operativo GNU/Linux
-        - programmi applicativi di sviluppo
-    - Elettronica di base
+    * Sintesi del suono digitale
+    * Protocollo MIDI (OSI/ISO Layer 1 e 2)
+    * Microcontroller (Arduino & c.)
+    * Linguaggi di programmazione C/C++
+    * Sistema operativo GNU/Linux
+    ** programmi applicativi di sviluppo
+    * Elettronica di base
 
-Leggi in dettagli sul [wiki](https://github.com/tizziano/mastroPiano/wiki/mastroPiano-wiki)
+Leggi i dettagli sulla  link:https://tizziano.github.io/mastroPiano[pagina principale]
 
+
+// sbagliato link:docs/index.html[pagina principale]

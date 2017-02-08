@@ -1,11 +1,11 @@
 = README.adoc 
 :lang: it
 :author: Tiziano
-v1.0, 05-feb-2017
+v0.4, 05-feb-2017
 
 == Progetto di un Sintetizzatore OpenHardware
 
-image::doc/prototipo1-50.JPG[width="600"]
+image::docs/images/prototipo1-50.JPG[width="300"]
 
 MastroPiano non è un prodotto commerciale, ma un progetto Open Hardware, un 
 insieme di applicazioni pratiche che ognuno può assemblare o costruire come 

@@ -7,30 +7,18 @@ v0.4, 05-feb-2017
 
 image::docs/images/prototipo1-50.JPG[width="300"]
 
-MastroPiano non è un prodotto commerciale, ma un progetto Open Hardware, un 
-insieme di applicazioni pratiche che ognuno può assemblare o costruire come 
-vuole e come più gli piace, seguendo alcune linee guida principali e 
-selezionando componenti di base, facilmente reperibili sul mercato. 
+MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
+musicali, prevalentemente tastiere e moduli sonori MIDI, impiegando Software 
+Libero, materiali di recupero e componenti elettronici facilmente reperibili. 
 
-Una tematica che comprende tecnologie spesso complesse sia per quanto riguarda 
-l'hardware che il software, che probabilmente potrebbero rappresentare un 
-ostacolo insormontabile per un musicista medio. 
-
-Per realizzare uno strumento musicale elettronico servono diversi componenti 
+Per costruire uno strumento musicale elettronico servono diversi componenti 
 elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti 
-e i moduli di controllo e generazione del suono. Un'apparecchiatura, per molti 
-anni caratterizzata da una componentistica sofisticata e difficile da reperire, 
-oggi può essere realizzata impiegando dispositivi digitali a microprocesore 
-molto più accessibili, unitamente al software, che sostituisce drasticamente 
-l'impiego dei circuiti logici cablati e analogici. 
+e i moduli di controllo e generazione del suono. 
 
-    * Sintesi del suono digitale
-    * Protocollo MIDI (OSI/ISO Layer 1 e 2)
-    * Microcontroller (Arduino & c.)
-    * Linguaggi di programmazione C/C++
-    * Sistema operativo GNU/Linux
-    ** programmi applicativi di sviluppo
-    * Elettronica di base
+Un’apparecchiatura, da sempre caratterizzata da una componentistica sofisticata 
+e difficile da reperire, oggi può essere realizzata impiegando dispositivi 
+digitali a microprocesore molto più accessibili, unitamente al software, che 
+sostituisce drasticamente l’impiego dei circuiti logici cablati e analogici.
 
 Leggi i dettagli sulla  link:https://tizziano.github.io/mastroPiano[pagina principale]
 

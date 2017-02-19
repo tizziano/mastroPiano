@@ -34,7 +34,7 @@ Questa è la pagina di presentazione dello spazio github riservato a
 documentazione che illustra i concetti e le modalità per la sperimentazione e 
 l'applicazione pratica. Per capire in dettaglio gli aspetti tecnici dei 
 componenti in gioco, consultare le pagine relative alla 
-link:https://tizziano.github.io/mastropiano[Documentazione]. 
+link:https://tizziano.github.io/mastropiano/[Documentazione]. 
 
 
 // sbagliato link:docs/index.html[pagina principale]

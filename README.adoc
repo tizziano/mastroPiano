@@ -8,19 +8,33 @@ v0.4, 05-feb-2017
 image::docs/images/prototipo1-50.JPG[width="300"]
 
 MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
-musicali, prevalentemente tastiere e moduli sonori MIDI, impiegando Software 
-Libero, materiali di recupero e componenti elettronici facilmente reperibili. 
+musicali, prevalentemente tastiere e moduli sonori e di controllo MIDI, 
+impiegando Software Libero, dispositivi e componenti elettronici e materiali di 
+recupero facilmente reperibili. 
 
 Per costruire uno strumento musicale elettronico servono diversi componenti 
-elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti 
-e i moduli di controllo e generazione del suono. 
+elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti,  
+i moduli di controllo e di generazione del suono. 
 
-Un’apparecchiatura, da sempre caratterizzata da una componentistica sofisticata 
-e difficile da reperire, oggi può essere realizzata impiegando dispositivi 
-digitali a microprocesore molto più accessibili, unitamente al software, che 
-sostituisce drasticamente l’impiego dei circuiti logici cablati e analogici.
+Per quanto riguarda quest'ultimo aspetto, della sintesi audio, che rappresenta 
+la componente più complessa e delicata del sistema, ci si propone di 
+sperimentare diversi approcci in ordine crescente di difficoltà e di resa 
+qualitativa. Questo per rispettare il più possibile il vincolo principale del 
+progetto che richiede l'impiego di componenti che siano di facile costruzione e 
+applicazione. 
 
-Leggi i dettagli sulla  link:https://tizziano.github.io/mastroPiano[pagina principale]
+Uno strumento Musicale elettronico è un’apparecchiatura, caratterizzata da una 
+componentistica sofisticata che oggi può essere realizzata impiegando 
+dispositivi digitali a microprocessore molto più accessibili, unitamente al 
+software, che sostituisce drasticamente l’impiego dei circuiti logici cablati e 
+analogici più critici. 
+
+Questa è la pagina di presentazione dello spazio github riservato a 
+'mastroPiano' che comprende i sorgenti del software, gli schemi elettrici e la 
+documentazione che illustra i concetti e le modalità per la sperimentazione e 
+l'applicazione pratica. Per capire in dettaglio gli aspetti tecnici dei 
+componenti in gioco, consultare le pagine relative alla 
+link:https://mastropiano.github.io[Documentazione]. 
 
 
 // sbagliato link:docs/index.html[pagina principale]

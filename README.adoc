@@ -1,4 +1,4 @@
-= README.adoc 
+= README
 :lang: it
 :author: Tiziano
 v0.4, 05-feb-2017
@@ -29,10 +29,10 @@ dispositivi digitali a microprocessore molto più accessibili, unitamente al
 software, che sostituisce drasticamente l’impiego dei circuiti logici cablati e 
 analogici più critici. 
 
-Questa è la pagina di presentazione dello spazio github riservato a 
+Questa è la pagina di presentazione dell'archivio GitHub riservato a 
 'mastroPiano' che comprende i sorgenti del software, gli schemi elettrici e la 
 documentazione che illustra i concetti e le modalità per la sperimentazione e 
-l'applicazione pratica. Per capire in dettaglio gli aspetti tecnici dei 
+l'applicazione pratica. Per entrare nei dettagli e gli aspetti tecnici dei 
 componenti in gioco, consultare le pagine relative alla 
 link:https://tizziano.github.io/mastroPiano/[Documentazione]. 
 

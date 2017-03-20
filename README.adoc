@@ -36,7 +36,7 @@ Questa è la pagina di presentazione dell'archivio GitHub riservato a
 documentazione che illustra i concetti e le modalità per la sperimentazione e 
 l'applicazione pratica. 
 
-// image::docs/images/prototipo3.JPG["Prototipo3", width="300", float="left"]
+image::docs/images/prototipo3.JPG["Prototipo3", width="300", float="left"]
 
 Per entrare nei dettagli e gli aspetti tecnici dei componenti in gioco, 
 consultare le pagine relative alla link:https://tizziano.github.io/mastroPiano/[Documentazione]. 

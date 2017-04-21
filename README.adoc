@@ -12,11 +12,12 @@
 :lang: it
 :author: Tiziano
 v0.4, 05-feb-2017
+:immagini: docs/risorse/immagini/
 
 == Progetto di un Sintetizzatore OpenHardware
 
 //image::docs/images/prototipo1-50.JPG["Prototipo1", width="300", float="right"]
-image::docs/images/prototipo1-50.JPG["Prototipo1", width="300"]
+image::{immagini}prototipo1-50.JPG["Prototipo1", width="300"]
 
 Il sintetizzatore è uno strumento musicale che ha affascinato una generazione 
 di musicisti ed appassionati di elettronica in un periodo in cui la tecnologia 
@@ -26,7 +27,7 @@ elettromeccanici e i circuiti analogici e che sta polarizzando l'attenzione su
 altri aspetti forse più spettacolari. Rimane pur sempre il ricordo e le 
 suggestioni di questo oggetto misterioso, magico e leggendario. 
 
-image::docs/images/isometrica_v3.jpg["Modello"]
+image::{immagini}isometrica_v3.jpg["Modello"]
 
 MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
 musicali, prevalentemente tastiere e moduli sonori e di controllo MIDI, 
@@ -45,7 +46,7 @@ progetto che richiede l'impiego di componenti che siano di facile costruzione e
 applicazione. 
 
 //image::docs/images/prototipo2-50.JPG["Prototipo2", width="300", float="right"]
-image::docs/images/prototipo2-50.JPG["Prototipo2", width="300"]
+image::{immagini}prototipo2-50.JPG["Prototipo2", width="300"]
 
 Uno strumento Musicale elettronico è un’apparecchiatura, caratterizzata da una 
 componentistica sofisticata che oggi può essere realizzata impiegando 
@@ -59,7 +60,7 @@ documentazione che illustra i concetti e le modalità per la sperimentazione e
 l'applicazione pratica. 
 
 //image::docs/images/prototipo3.JPG["Prototipo3", width="300", float="left"]
-image::docs/images/prototipo3.JPG["Prototipo3", width="300"]
+image::{immagini}prototipo3.JPG["Prototipo3", width="300"]
 
 Per entrare nei dettagli e gli aspetti tecnici dei componenti in gioco, 
 consultare le pagine relative alla link:https://tizziano.github.io/mastroPiano/[Documentazione]. 

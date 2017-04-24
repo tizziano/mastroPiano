@@ -27,7 +27,7 @@ elettromeccanici e i circuiti analogici e che sta polarizzando l'attenzione su
 altri aspetti forse più spettacolari. Rimane pur sempre il ricordo e le 
 suggestioni di questo oggetto misterioso, magico e leggendario. 
 
-image::{immagini}isometrica_v3.jpg["Modello"]
+image::{immagini}isometrica_v3.jpg["Schema generale"]
 
 MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
 musicali, prevalentemente tastiere e moduli sonori e di controllo MIDI, 

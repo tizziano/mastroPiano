@@ -1,0 +1,178 @@
+/*
+ * tiz.css
+ * 
+ * Copyright 2017 tiziano <tiziano.detogni@gmail.com>
+ * 
+ * CSS for AsciiDoc xhtml11 and html5 backends
+ *
+ * Modifiche mie personali:
+ * carattere codice e spaziatura singola + piccolo
+ * testo enfatizzato di un colore diverso dai collegamenti
+*/
+
+/*  prove tiziano
+ * ========================================
+*/
+
+
+/*
+   role="floatright/left"
+*/
+.clearfix {
+    overflow: auto;
+/*
+    border: solid 1px;
+*/
+}
+/*
+.clearfix p {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+*/
+
+div.floatright {
+/*
+    clear:right; 
+*/
+    float:right; 
+    margin-left:1em;
+    margin-top:0;
+}
+div.floatleft {
+/*
+    clear:left; 
+*/
+    float:left; 
+    margin-right:1em;
+    margin-top:0;
+}
+
+
+/*
+   #navbar
+*/
+#header {
+    padding-top: 1em;
+}
+
+@media print {
+  body.manpage div#toc { display: none; }
+  div#navbar   { display: none; }
+}
+
+
+#navbar  {
+    position: fixed;
+    top: -1em;
+    left: 0;
+    margin-top: 0;
+    width: 100%;
+    font-size: 0.7em;
+}
+
+#navbar > div.content {
+  background: white;
+  border: 1px solid #dddddd;
+  border-left: 4px solid #f0f0f0;
+  margin-top: 1em;
+}
+
+
+#navbar > div.content > div.paragraph > p > a {
+    padding: 0.5em;
+    text-decoration: none;
+    margin-left:0.1em;
+}
+
+#navbar > div.content > div.paragraph > p > a:hover {
+    color:darkblue;
+    padding-left: 1em;
+}
+
+
+
+/*
+   role="navbar"
+*/
+@media print {
+  body.manpage div#toc { display: none; }
+  div.sidebarblock.navbar   { display: none; }
+}
+
+
+div.sidebarblock.navbar  {
+    position: fixed;
+    top: -1em;
+    left: 0;
+    margin-top: 0;
+    width: 100%;
+    font-size: 0.7em;  // dimensione caratteri!!
+}
+
+div.sidebarblock.navbar > div.content {
+  background: white;
+  border: 1px solid #dddddd;
+  border-left: 4px solid #f0f0f0;
+/*
+  padding: 0.1em;
+  padding-bottom: 0.5em;
+*/
+  margin-top: 1em;
+}
+
+div.sidebarblock.navbar > div.content > div.paragraph > p > a {
+/*
+    background: -moz-linear-gradient(center top, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.34) 100%) repeat scroll 0 0 transparent;
+*/
+    padding: 0.5em;
+    text-decoration: none;
+    margin-left:0.1em;
+}
+
+div.sidebarblock.navbar > div.content > div.paragraph > p > a:hover {
+    color:darkblue;
+    padding-left: 1em;
+}
+
+/*
+   role="toc3"
+*/
+div.listingblock.toc3:hover before {
+    content: "asciidoc";
+}
+.listingblock:hover toc3::before {
+    text-transform: uppercase;
+    font-size: 0.9em;
+    color: #999;
+    position: absolute;
+    top: 0.375em;
+    right: 0.375em;
+}
+
+
+/*
+div.listingblock.toc3 {
+    background-color: red;
+    content: "popo";
+}
+*/
+
+
+div.sidebarblock.toc3  {
+    position: fixed;
+    top: 15em;
+    left: 0;
+}
+div.sidebarblock.toc3 > div.content {
+#  background: none;
+  border: none;
+  border-left: none;
+  padding: 0.5em;
+  background-color: white;
+}
+/* 
+ * ========================================
+*/
+
+

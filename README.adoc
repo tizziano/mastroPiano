@@ -55,7 +55,7 @@ software, che sostituisce drasticamente l’impiego dei circuiti logici cablati 
 analogici più critici. 
 
 Questa è la pagina di presentazione dell'archivio GitHub riservato a 
-'mastroPiano' che comprende i sorgenti del software, gli schemi elettrici e la 
+_mastroPiano_ che comprende i sorgenti del software, gli schemi elettrici e la 
 documentazione che illustra i concetti e le modalità per la sperimentazione e 
 l'applicazione pratica. 
 

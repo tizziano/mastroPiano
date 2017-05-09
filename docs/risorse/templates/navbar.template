@@ -4,10 +4,29 @@
 [[navbar]]
 ********
 // posizione svg
-// posizione svg
 image:{base}risorse/immagini/mark-github.svg["Titolo"]
 link:https://github.com/tizziano[tizziano su GitHub]
 //link:https://tizziano.github.io/mastroPiano[mastroPiano]
 //link:mastroPiano[mastroPiano]
 //link:blink/blink.html[Blink...]
 ********
+
+
+//
+//  barra di laterate/toc
+//
+[[subcontent]]
+*****
+toc::[]
+
+'''
+
+//link:{base}index.html[home]
+
+//link:{base}index1/index1.html[home1]
+
+base: {base}
+
+*****
+
+

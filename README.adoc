@@ -16,7 +16,6 @@ v0.4, 05-feb-2017
 
 == Progetto di un Sintetizzatore OpenHardware
 
-//image::docs/images/prototipo1-50.JPG["Prototipo1", width="300", float="right"]
 image::{immagini}prototipo1-50.JPG["Prototipo1", width="300"]
 
 Il sintetizzatore è uno strumento musicale che ha affascinato una generazione 
@@ -27,12 +26,29 @@ elettromeccanici e i circuiti analogici e che sta polarizzando l'attenzione su
 altri aspetti forse più spettacolari. Rimane pur sempre il ricordo e le 
 suggestioni di questo oggetto misterioso, magico e leggendario. 
 
-image::{immagini}isometrica_v3.jpg["Schema generale"]
-
 MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
 musicali, prevalentemente tastiere e moduli sonori e di controllo MIDI, 
 impiegando Software Libero, dispositivi e componenti elettronici e materiali di 
 recupero facilmente reperibili. 
+
+image::{immagini}isometrica_v3.jpg["Schema generale",height=350]
+
+Iniziato quasi per caso, dopo una serie di prove per capire come fosse 
+possibile riutilizzare una vecchia tastiera quasi-giocattolo, e trasformarla in 
+uno strumento musicale più nuovo e moderno, dopo qualche mese di lavoro e di 
+prove, e arrivato alla realizzazione di alcuni prototipi funzionanti, mi sono 
+reso conto di aver applicato e assemblato un insieme non indifferente di 
+componenti hardware e software. 
+
+Consapevole che tutto questo lavoro sarebbe rimasto solo nella mia testa, mi 
+sono dovuto prendere un periodo di pausa per trovare i modi per illustrare e 
+trasmettere in qualche modo i risultati fin qui ottenuti in maniera tale da 
+rendere tutto questo in qualche modo riproducible anche da parte di altri. 
+
+Prima di tutto ho realizzato un opuscolo, in cui riassumere brevemente ed 
+esaustivamente tutto questo. Sucessivamente, mi sono proposto di trovare sul 
+Web un contenitore in cui raccogliere tutto il materiale atto allo scopo. Ma 
+questa è diventata un'altra storia (collegamento tizziano su github). 
 
 Per costruire uno strumento musicale elettronico servono diversi componenti 
 elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti,  
@@ -42,10 +58,8 @@ Per quanto riguarda quest'ultimo aspetto, della sintesi audio, che rappresenta
 la componente più complessa e delicata del sistema, ci si propone di 
 sperimentare diversi approcci in ordine crescente di difficoltà e di resa 
 qualitativa. Questo per rispettare il più possibile il vincolo principale del 
-progetto che richiede l'impiego di componenti che siano di facile costruzione e 
-applicazione. 
+progetto che richiede l'impiego di componenti che siano facilmente reperibili. 
 
-//image::docs/images/prototipo2-50.JPG["Prototipo2", width="300", float="right"]
 image::{immagini}prototipo2-50.JPG["Prototipo2", width="300"]
 
 Uno strumento Musicale elettronico è un’apparecchiatura, caratterizzata da una 
@@ -59,8 +73,9 @@ _mastroPiano_ che comprende i sorgenti del software, gli schemi elettrici e la
 documentazione che illustra i concetti e le modalità per la sperimentazione e 
 l'applicazione pratica. 
 
-//image::docs/images/prototipo3.JPG["Prototipo3", width="300", float="left"]
 image::{immagini}prototipo3.JPG["Prototipo3", width="300"]
 
-Per entrare nei dettagli e gli aspetti tecnici dei componenti in gioco, 
-consultare le pagine relative alla link:https://tizziano.github.io/mastroPiano/[Documentazione]. 
+Ringrazio per l'attenzione e la pazienza prestate nella lettura di questo lungo
+preambolo. Per entrare nei dettagli e gli aspetti tecnici dei componenti in 
+gioco, consultare le pagine relative alla 
+link:https://tizziano.github.io/mastroPiano/[Documentazione]. 

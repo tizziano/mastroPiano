@@ -5,6 +5,8 @@
  * 
  * Controller matrice 8x8 della tastiera viscount
  * 
+ * Versione 1: arduino UNO R3, banco di prova scansione tastiera
+ * 
  * Possibilità:
  *    usa tutti i pin disponbili di arduino
  *      impiega se possibile due porte da 8 bit...

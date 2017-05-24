@@ -46,11 +46,11 @@ trasmettere in qualche modo i risultati fin qui ottenuti in maniera tale da
 rendere tutto questo in qualche modo riproducible anche da parte di altri. 
 
 Prima di tutto ho realizzato un opuscolo 
-(link:https://github.com/tizziano/mastroPiano/raw/master/docs/risorse/downloads/opuscolo-mastropiano_170316.pdf[scaricabile 
-da qui]), in cui riassumere brevemente ed esaustivamente tutto questo. 
-Successivamente, mi sono proposto di trovare sul Web un contenitore in cui 
-raccogliere tutto il materiale atto allo scopo. Ma questa è diventata un'altra 
-storia, vedi link:https://tizziano.github.io/[Tizziano su GitHub]. 
+(link:https://github.com/tizziano/mastroPiano/raw/master/docs/risorse/downloads/opuscolo-mastropiano_170316.pdf[scaricabile da qui]), 
+in cui riassumere brevemente ed esaustivamente tutto questo. Successivamente, 
+mi sono proposto di trovare sul Web un contenitore in cui raccogliere tutto 
+il materiale atto allo scopo. Ma questa è diventata un'altra storia, vedi 
+link:https://tizziano.github.io/[Tizziano su GitHub]. 
 
 Per costruire uno strumento musicale elettronico servono diversi componenti 
 elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti,  

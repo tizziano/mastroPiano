@@ -16,6 +16,28 @@
 
 
 /*
+    imageblock title
+
+*/
+div.imageblock.floatright,
+div.imageblock.floatleft {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div.imageblock > div.title {
+    color: black;
+    font-weight: unset;
+    font-style: italic;
+    font-size: smaller;
+    text-align: left;
+/*
+    margin-top: 0;
+    margin-bottom: 0;
+*/
+}
+
+/*
    role="floatright/left"
 */
 .clearfix {
@@ -47,7 +69,35 @@ div.floatleft {
     margin-right:1em;
     margin-top:0;
 }
+/*
+   role="2colonne"
+*/
+.colonne2 {
+/*
+  padding: 1em;
+*/
+  -moz-column-count: 2;
+  -moz-column-gap: 1em;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 1em;
+  column-count: 2;
+  column-gap: 1em;
+}
 
+.colonne2 p {
+    margin-top:0;
+}
+
+div.colonne2 > div.content > div.listingblock {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;           /* Theoretically FF 20+ */
+    break-inside: avoid;                /* IE 11 */
+
+//~     display: inline-block;
+//~     display:table;                      /* Actually FF 20+ */
+    border: solid 1px;
+    font-size: smaller;
+}
 
 /*
    #navbar

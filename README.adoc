@@ -5,7 +5,7 @@
 // notabene: questo documento viene caricato su github e convertito 
 // in automatico in HTML dal server github (probabilmente con Asciidoctor)
 // non essendo in grado di controllare questo processo, evita di utilizzare 
-// marcature "strane" e spiacevoli sorprese e grattacapi. 
+// marcature "strane" e conseguentemente spiacevoli sorprese e grattacapi. 
 //
 
 = README
@@ -28,7 +28,7 @@ suggestioni di questo oggetto misterioso, magico e leggendario.
 
 MastroPiano è un progetto Open Hardware che si propone di realizzare strumenti 
 musicali, prevalentemente tastiere e moduli sonori e di controllo MIDI, 
-impiegando Software Libero, dispositivi e componenti elettronici e materiali di 
+utilizzando Software Libero, dispositivi e componenti elettronici e materiali di 
 recupero facilmente reperibili. 
 
 image::{immagini}isometrica_v3.jpg["Schema generale",height=350]
@@ -46,8 +46,8 @@ trasmettere in qualche modo i risultati fin qui ottenuti in maniera tale da
 rendere tutto questo in qualche modo riproducible anche da parte di altri. 
 
 Prima di tutto ho realizzato un opuscolo 
-(link:https://github.com/tizziano/mastroPiano/raw/master/docs/risorse/downloads/opuscolo-mastropiano_170316.pdf[scaricabile da qui]), 
-in cui riassumere brevemente ed esaustivamente tutto questo. Successivamente, 
+(link:https://github.com/tizziano/mastroPiano/raw/master/docs/risorse/downloads/opuscolo_170511.pdf[scaricabile da qui]), 
+in cui ho cercato di riassumere sinteticamente tutto questo. Successivamente, 
 mi sono proposto di trovare sul Web un contenitore in cui raccogliere tutto 
 il materiale atto allo scopo. Ma questa è diventata un'altra storia, vedi 
 link:https://tizziano.github.io/[Tizziano su GitHub]. 
@@ -57,10 +57,10 @@ elettromeccanici. In primo luogo la tastiera, i circuiti di controllo dei tasti,
 i moduli di controllo e di generazione del suono. 
 
 Per quanto riguarda quest'ultimo aspetto, della sintesi audio, che rappresenta 
-la componente più complessa e delicata del sistema, ci si propone di 
-sperimentare diversi approcci in ordine crescente di difficoltà e di resa 
-qualitativa. Questo per rispettare il più possibile il vincolo principale del 
-progetto che richiede l'impiego di componenti che siano facilmente reperibili. 
+la componente più complessa e delicata del sistema, mi propongo di sperimentare 
+diversi approcci in ordine crescente di difficoltà e di resa qualitativa. 
+Questo per rispettare il più possibile il vincolo principale del progetto che 
+richiede l'impiego di componenti che siano facilmente reperibili. 
 
 image::{immagini}prototipo2-50.JPG["Prototipo2", width="300"]
 

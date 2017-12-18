@@ -1,5 +1,5 @@
 
-= MASTROPIANO
+= Pagina1
 :lang: it
 :author: Tiziano
 v1.0, 02-feb-2017
@@ -18,7 +18,8 @@ prova link1: link:../index.html[tizziano.io]
 
 prova link2: link:../../github.io/index.html[tizziano.io]
 
-prova pagina1: link:pagina1.html[pagina1]
+prova link1: link:index.html[index]
+
 
 == uno
 

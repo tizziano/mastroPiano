@@ -14,9 +14,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Aenean commodo ligula eget dolor. Aenean massax. 
 
 
-prova link1: link:../index.html[tizziano.io]
+prova link1: link:../index.html[]
 
-prova link2: link:../../github.io/index.html[tizziano.io]
+prova link2: link:../../github.io/index.html[]
 
 prova pagina1: link:pagina1.html[pagina1]
 

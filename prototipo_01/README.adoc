@@ -1,7 +1,7 @@
 
 = Prototipo uno
 
-Questo è lo schema die primi collegamenti dalla scheda Arduino alla matrice 
+Questo è lo schema dei primi collegamenti dalla scheda Arduino alla matrice 
 della tastiera Viscount KB-300. 
 
 image:mastropiano-prototipo-1.svg["Schema elettrico",title="Lo schema elettrico",caption=""]
